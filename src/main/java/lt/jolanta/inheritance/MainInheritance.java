@@ -3,7 +3,11 @@ package lt.jolanta.inheritance;
 public class MainInheritance {
     public static void main(String[] args) {
         KlaseA klaseA = new KlaseA("");
+<<<<<<< HEAD
         KlaseB klaseB = new KlaseB("");
+=======
+        KlaseB klaseB = new KlaseB("","");
+>>>>>>> 6f0fb19 (Initial commit)
         KlaseC klaseC = new KlaseC("");
         KlaseD klaseD = new KlaseD("", "", "");
 

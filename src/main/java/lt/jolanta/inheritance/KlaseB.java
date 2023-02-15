@@ -4,7 +4,7 @@ public class KlaseB extends KlaseA {
     public String kintamasisB_A;
     private String getKintamasisB_B;
     public String testA;
-    public KlaseB(String kintamasisB_A) {
+    public KlaseB(String kintamasisB_A, String kintamasisA_A) {
         super(kintamasisA_A);
         this.kintamasisB_A = kintamasisB_A;
     }
