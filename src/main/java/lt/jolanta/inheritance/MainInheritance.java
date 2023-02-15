@@ -3,7 +3,7 @@ package lt.jolanta.inheritance;
 public class MainInheritance {
     public static void main(String[] args) {
         KlaseA klaseA = new KlaseA("");
-        KlaseB klaseB = new KlaseB("","");
+        KlaseB klaseB = new KlaseB("");
         KlaseC klaseC = new KlaseC("");
         KlaseD klaseD = new KlaseD("", "", "");
 

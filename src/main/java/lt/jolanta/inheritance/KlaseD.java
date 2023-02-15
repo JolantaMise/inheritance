@@ -3,7 +3,7 @@ package lt.jolanta.inheritance;
 public class KlaseD extends KlaseB{
     String testA;
     public KlaseD(String testA, String kintamasisB_A, String kintamasisA_A) {
-        super(kintamasisB_A, kintamasisA_A);
+        super(kintamasisB_A);
         kintamasisA_A = "";
         super.kintamasisB_A = "";
         this.testA = testA;
